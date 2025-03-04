@@ -26,9 +26,8 @@ body {
 
 .profile-img {
   border-radius: 1rem;
-  filter: grayscale(100%) sepia(100%) hue-rotate(90deg);
-  max-height: 200px;
-  border: 2px solid var(--green);
+  max-height: 350px;
+  border: 2px solid var(--white);
 }
 
 .profile-img:hover {
